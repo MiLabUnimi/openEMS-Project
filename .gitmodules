@@ -1,6 +1,6 @@
 [submodule "CSXCAD"]
 	path = CSXCAD
-	url = https://github.com/thliebig/CSXCAD.git
+	url = https://github.com/algebrato/CSXCAD.git
 [submodule "QCSXCAD"]
 	path = QCSXCAD
 	url = https://github.com/thliebig/QCSXCAD.git
